@@ -43,7 +43,8 @@ This project implements a Snake Game using the **Adafruit ILI9341 display** and 
 
 ## Setup Instructions
 1. Clone the repository:
-   ```bash  https://github.com/Lingeswaran2018/SnakeGame.git
+   ```bash 
+   git clone https://github.com/Lingeswaran2018/SnakeGame.git
    ```
 2. Open the project in PlatformIO within VS Code.
 3. Ensure the Wokwi simulation environment is properly set up.
